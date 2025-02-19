@@ -4,7 +4,7 @@ body {
             align-items: center;
             height: 100vh;
             margin: 0;
-            background-color: purple;
+            background-color: rgba(11, 9, 9, 0.16);
         }
 .heart {
             position: relative;
@@ -20,7 +20,7 @@ body {
             width: 100px;
             height: 150px;
             border-radius: 100px 100px 0 0;
-            background: red;
+            background: #e600ff;
         }
 .heart:before {
             left: 50px;
